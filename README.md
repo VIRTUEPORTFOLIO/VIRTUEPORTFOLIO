@@ -17,10 +17,9 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/virtue-oladoja-50229530a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://x.com/Omotayo_dis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
   <a href="https://www.instagram.com/virtueschlboy07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://discord.com/users/1207982178168741890" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-  <a href="https://https://www.x.com/Omotayo_dis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://https://www.x.com/Omotayo_dis" target="_blank"><img class="w-20" src="https://img.shields.io/twitter/url?style=social&amp;url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator" alt="tweet github profile readme generator">
 </p>
 
 <h3 align="left">🛠️ Languages and Tools I Use:</h3>
