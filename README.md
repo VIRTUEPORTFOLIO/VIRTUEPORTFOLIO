@@ -33,8 +33,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=virtueportfolio&show_icons=true&theme=radical" alt="virtueportfolio stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=virtueportfolio&show_icons=true&locale=en&layout=compact&theme=radical" alt="virtueportfolio top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
